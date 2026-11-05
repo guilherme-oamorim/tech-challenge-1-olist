@@ -92,3 +92,6 @@ Rodar **nesta ordem**, a partir da raiz do repositório:
 ## Fonte dos dados
 
 [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle).
+
+## Equipe
+Projeto desenvolvido em grupo na Pós Tech em Data Analytics da FIAP por Félix Hiroito, Guilherme Amorim, Jéssica Faria, João Victor de Oliveira e Rafael Pedrosa.
